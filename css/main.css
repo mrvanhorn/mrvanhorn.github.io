@@ -12,9 +12,10 @@ div.title {
 }
 nav {
     height: 50px;
-    border-width: 5px;
+    padding-top: 5px;
+/*    border-width: 5px;
     border-style: solid;
-    border-color: #ffffff;
+    border-color: #ffffff;*/
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';

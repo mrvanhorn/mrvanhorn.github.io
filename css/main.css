@@ -10,6 +10,9 @@ div.title {
     background-image: url("/graphics/glacialgrooves-rounded-363x100.jpg");
 */
 }
+nav {
+    height: 50px;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;

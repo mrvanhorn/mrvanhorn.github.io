@@ -12,7 +12,8 @@ div.title {
 }
 nav {
     height: 50px;
-    border: 10px;
+    border-width: 5px;
+    border-style: solid;
     border-color: #ff0000;
 }
 nav ul, footer ul {

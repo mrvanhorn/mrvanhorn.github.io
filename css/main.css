@@ -12,6 +12,8 @@ div.title {
 }
 nav {
     height: 50px;
+    border: 10px;
+    border-color: #ff0000;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';

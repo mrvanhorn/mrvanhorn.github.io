@@ -21,7 +21,6 @@ nav {
     padding-top: 5px;
     width: 363px;
     height: 95px;
-    color: #ffffff;
     background-image: url("/graphics/glacialgrooves-rounded-363x100.jpg");
 /*    border-width: 5px;
     border-style: solid;
@@ -32,6 +31,7 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    color: #ffffff;
 }
 nav ul li, footer ul li {
     display: inline;

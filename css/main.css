@@ -17,8 +17,8 @@ div.title {
 }
 
 nav {
-    height: 45px;
-    padding-top: 5px;
+    height: 50px;
+    /*padding-top: 5px;*/
     width: 363px;
     background-image: url("/graphics/glacialgrooves-rounded-363x50.jpg");
 /*    border-width: 5px;

@@ -18,17 +18,13 @@ div.title {
 
 nav {
     height: 50px;
-    /*padding-top: 5px;*/
     width: 363px;
     background-image: url("/graphics/glacialgrooves-rounded-363x50.jpg");
-/*    border-width: 5px;
-    border-style: solid;
-    border-color: #ffffff;*/
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
-    padding-top: 5px;
+    padding-top: 15px;
     list-style: none;
     font-weight: bold;
 }

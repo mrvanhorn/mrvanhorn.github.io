@@ -15,7 +15,7 @@ date: 2019-09-06
 <li>Install some sort of antivirus (maybe <a href="https://www.avast.com/">Avast</>, but it depends on where the machine is going to be used; at work, we have other software)</li>
 </ol>
 
-<p>There are reboots here and there, which I didn't mention. After these things, I usually start installing applications.</p>
+<p>There are reboots here and there, which I didn't mention. After these things, I usually start installing applications. Often installed applications include Notepad++, PDFCreator, and the aforementioned Chrome and Firefox.</p>
 
 <dl>
   <dt>Podcast of the Week</dt>

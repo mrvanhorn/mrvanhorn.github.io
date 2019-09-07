@@ -8,7 +8,7 @@ title: Mike VanHorn
 
 <div class="blog-index">
   {% for post in site.posts %}
-   {% if post.title = "4K YouTube to MP3" %}
+   {% if post.title == "4K YouTube to MP3" %}
     {% assign content = post.content %}
     {% include post_detail.html %}
    {% endif %}

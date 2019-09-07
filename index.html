@@ -6,14 +6,11 @@ title: Mike VanHorn
 <img src="graphics/mike-150x180.png" width="150" height="180" alt="" style="float: left; margin: 0px 15px 15px 0px;"> 
 <p>This is the home page of Mike VanHorn: system administrator, Master's student, Doctor Who fan, traveler, and, blogger.</p>
 
-<div class="blog-index">
   {% for post in site.posts %}
    {% if post.title == "4K YouTube to MP3" %}
     {% assign content = post.content %}
     {% include post_detail.html %}
    {% endif %}
   {% endfor %}
-</div>
-
   
 </div>

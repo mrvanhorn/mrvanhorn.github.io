@@ -2,7 +2,7 @@
 layout: post
 title: "How to Disable User Switching in GNOME 3 (in CentOS 7)"
 date: 2019-09-11
-last_modified-at: 2019-09-11
+last_modified_at: 2019-09-11
 ---
 
 <p>For quite a while, I have wanted to disable the ability to switch users in GNOME on CentOS. Previously, I was wanting to do it for CentOS 6, but on a new system with CentOS 7, I revisited the problem today for the first time in years, and was finally able to figure out how to completely disable user switching. Here, I will first explain the overall issues and which options of the GNOME environment need to be changed, and then explain how I implemented these changes in CentOS 7.</p>

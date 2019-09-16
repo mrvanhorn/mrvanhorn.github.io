@@ -15,7 +15,8 @@ layout: default
 
 <p>
 {% assign date_format = site.minima.date_format | default: '%b %-d, %Y' %}
-
+{% date_format %}
+Bob
 {% if page.last_modified_at %}
     Last updated: {% page.last_modified_at | date: date_format %}
 {% endif %}

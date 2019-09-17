@@ -7,19 +7,13 @@ layout: default
   {{ content }}
 </div>
 
-<div>
-  &nbsp;<br>
-  &nbsp;<br>
-  &nbsp;<br>
-</div>
-
-<p>
-
+<p><small>
 {% if page.last_modified %}
     Last updated: {{ page.last_modified_at | date: date_to_long_string }}
 {% else %}
-    Last updated: {{ page.date | date: '%B %d, %Y'  }}
+    Last updated: {{ page.date | date: date_to_long_string  }}
 {% endif %}
+</small>
 </p>
 
 <div class="notecomments">

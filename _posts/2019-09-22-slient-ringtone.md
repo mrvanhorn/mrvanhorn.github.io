@@ -18,7 +18,7 @@ very many web sites, where it is then also explained how to create your own sile
 ringtone. I do not understand why there aren't any silent ringtones out there to 
 download (maybe there are, and I just didn't find them), but, here is one:</p>
 
-<p><a href="/downloads/silent.m4r">silent.m4r</a></p>
+<p><a href="/downloads/silence.m4r">silence.m4r</a></p>
 
 <p>Download this, plug your phone into your computer, and fire up iTunes. Go to 
 your iPhone, go down to Tones, and drag the silent.m4r from your computer over to the 

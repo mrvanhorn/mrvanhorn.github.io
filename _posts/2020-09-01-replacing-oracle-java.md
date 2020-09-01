@@ -19,11 +19,3 @@ sudo rm /usr/bin/javaws
 
 <p>Then I installed AdoptOpen’s OpenJDK 8 binaries, and OpenWebStart. I went into the OpenWebStart settings and had it find the local AdoptOpen JVM. After that, I could open a .jnlp file and it worked.</p>
 
-
-<dl>
-  <dt>THING of the Day</dt>
-  <dd></dd>
-</dl>
-
-
-

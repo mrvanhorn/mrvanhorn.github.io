@@ -1,7 +1,9 @@
 body {
     margin: 60px auto;
     width: 70%;
+    padding: 20px;
     border-style: inset;
+    border-radius: 5px;
 }
 
 div.title {

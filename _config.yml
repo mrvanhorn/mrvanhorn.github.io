@@ -2,12 +2,4 @@ remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-#name: Michael VanHorn Personal Web Site
-#markdown: kramdown
-#permalink: /blog/:year/:month/:day/:title
-#plugins:
-#  - jekyll-sitemap
-
-# Google Analytics
-google_analytics: UA-148186608-1
-
+title: Michael VanHorn Personal Web Site

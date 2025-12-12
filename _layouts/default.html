@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			{% include analytics.html %}
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+	        		<li><a href="/blog">Blog</a></li>
+	    		</ul>
+			</nav>
+			<div class="title">
+				<h2>{{ page.title }}</h2>
+			</div><!-- title -->
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="mailto:mr_vanhorn@yahoo.com">email</a></li>
+				</ul>
+			</footer>
+		</body>
+	</html>

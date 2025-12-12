@@ -1,0 +1,9 @@
+<hr>
+<p style="clear:both;">Latest Blog Entry:</p>
+<p><strong>
+{% if post.title %}
+    <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+{% endif %}
+</strong></p>
+
+<div class="entry-content">{{ content }}</div>

@@ -8,14 +8,13 @@ title: Mike VanHorn's Home Page
 This is the home page of Mike VanHorn. 
 </p>
 
+
+{% assign post = site.posts.first %}
+{% include post_detail.html %}
+
 <p>Here's some recent <a href="https://www.linkedin.com/in/michael-vanhorn-bscs-mba-1aaa0711/">LinkedIn</a> activity:</p>
 
 <div style="text-align:center">
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7397292794593267712?collapsed=1" height="626" width="504" frameborder="0" allowfullscreen="" title="Working the SIGHPC booth at SC25"></iframe>
 </div>
 
-<!--
-  {% assign post = site.posts.first %}
-  {% assign content = post.content %}
-  {% include post_detail.html %}
--->

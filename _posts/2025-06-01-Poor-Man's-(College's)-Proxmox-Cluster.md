@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Poor Man's (College's) Proxmox Cluster"
+title: "Poor Man's (College's) Proxmox Cluster (OHECC 2025)"
 date: 2025-06-01
-last_modified_at:
+last_modified_at: 2025-12-31
 ---
 
 <p>

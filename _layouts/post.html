@@ -15,7 +15,7 @@ layout: default
 </div>
 
 <p><small>
-{{ page.last_modified_at }}
+{% last_modified_at %}
 {% if page.last_modified_at %}
     1 Last updated: {{ page.last_modified_at | date: date_to_long_string }}
 {% else %}

@@ -50,8 +50,12 @@ no-cost action to make the universe a better place.</p>
 
 
 <dl>
-  <dt>THING of the Day</dt>
-  <dd></dd>
+  <dt>Four W's of the Day</dt>
+  <dd>
+  Whatever you can<br>
+  Whenever you can<br>
+  Wherever you are<br>
+  With Whatever you have</dd>
 </dl>
 
 

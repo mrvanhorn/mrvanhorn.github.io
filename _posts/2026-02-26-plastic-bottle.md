@@ -12,7 +12,8 @@ opportunity we've been given.</p>
 <p>&nbsp;</p>
 
 <p><img src="/images/plastic_bottle.jpg" width="378" height="504" alt="This is
-a photo of the flattened top of a plastic water bottle" style="float:right">
+a photo of the flattened top of a plastic water bottle" style="float:right;
+margin-left:20px">
 One day, years ago now, I was walking into the Russ Engineering Center. At
 one point I passed, lying in the grass along the sidewalk, or maybe on
 the edge of the concrete itself, the flattened top part of a plastic water 

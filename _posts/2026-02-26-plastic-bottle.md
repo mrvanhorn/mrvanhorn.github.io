@@ -48,6 +48,7 @@ smashed plastice bottle as I could, and now it resides on my desk. It's
 a reminder that there is no reason to miss the opportunity of taking a
 no-cost action to make the universe a better place.</p>
 
+<p>&nbsp;</p>
 
 <dl>
   <dt>Four W's of the Day</dt>

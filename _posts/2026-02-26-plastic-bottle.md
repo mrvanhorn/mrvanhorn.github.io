@@ -38,7 +38,7 @@ would have just walked right by without really noticing. But, I don't
 like having recyclable material lying around on the ground. I do like
 having a welcoming workplace. I do like improving the environment. It's
 important to me that I always work to make the world a better place! And
-leaning down to pick up that bottle cost me <strong></em>absolutely nothing</em></strong>. It took
+leaning down to pick up that bottle cost me <strong><em>absolutely nothing</em></strong>. It took
 pretty much zero time to perform the action, as it's on my way into the
 building along the sidewalk that I was walking anyway.</p>
 

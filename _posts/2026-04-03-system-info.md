@@ -8,7 +8,7 @@ last_modified_at: 2026-04-03 14:12:00
 
 <p>I have just created my first public GitHub repo (besides my GitHub Pages site)!</p>
 
-<p>a href="https://github.com/mrvanhorn/system_info">https://github.com/mrvanhorn/system_info</a></p>
+<p><a href="https://github.com/mrvanhorn/system_info">https://github.com/mrvanhorn/system_info</a></p>
 
 <p>I have uploaded my personal system_info script. This is a simple bash script that
 utilizes some installed-on-pretty-much-every-Linux-distro utilities to neatly display 

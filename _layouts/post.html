@@ -7,7 +7,7 @@ layout: default
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0"></script>
 
 <p class="meta">Original posting date: {{ page.date | date_to_string }}<br>
-Last modified: {{ page.last_modified_at | date: '%Y:%b:%d %I:%M' }}</p>
+Last modified: {{ page.last_modified_at | date: '%Y %b %d %I:%M' }}</p>
 
 <div class="fb-share-button" data-href="{{ site.url }}{{ page.url }}" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 

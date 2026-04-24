@@ -2,7 +2,6 @@
 layout: post
 title: "Why I Have A Flattened Water Bottle on My Desk"
 date: 2026-02-26
-last_modified_at: 2026-02-26 11:29:00
 ---
 
 <p>There are small things we can do everyday, which cost us nothing,

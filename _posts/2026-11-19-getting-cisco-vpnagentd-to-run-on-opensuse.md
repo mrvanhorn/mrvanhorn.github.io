@@ -2,16 +2,14 @@
 layout: post
 title: "What I Had To Do to Get Cisco vpnagentd to Start Under openSUSE 16.0"
 date: 2026-11-19
-last_modified_at:
+last_modified_at: 2026-11-19 08:23:00
 # to get last_modified use :r!date +"\%Y-\%m-\%d \%H:\%M:00"
 ---
-
-<p>&nbsp;</p>
 
 <p>
 In order for the Cisco Secure Client vpn client to run on Linux, there is a daemon that runs in the
 background called vpnagentd. There is a systemd service file for that daemon, which on my laptop running
-openSUSE 16.0, is /etc/systemd/system/vpnagentd.service. When the service would try to start, it would fail
+openSUSE 16.0, is <code>/etc/systemd/system/vpnagentd.service</code>. When the service would try to start, it would fail
 with an unhelpful error message "resources" as the reason. Looking in the journal 
 (<code>journalctl -xeu vpnagentd.service</code>), the following errors were present
 </p>
